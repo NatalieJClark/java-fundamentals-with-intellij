@@ -22,9 +22,10 @@ public class Quiz {
 
     // Main method
     public static void main(String[] args) {
-        Quiz myQuiz = new Quiz("what is the capital of Burkina Faso?", "What is the capital of Bhutan?");
+        Quiz myQuiz = new Quiz(
+                "what is the capital of Burkina Faso?",
+                "What is the capital of Bhutan?");
         System.out.println(myQuiz.getQuestionOne());
         System.out.println(myQuiz.getQuestionTwo());
     }
-
 }
