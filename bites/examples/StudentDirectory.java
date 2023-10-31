@@ -2,7 +2,6 @@ package bites.examples;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Enumeration;
-import java.util.Iterator;
 
 public class StudentDirectory {
 
@@ -30,7 +29,7 @@ public class StudentDirectory {
     }
 
     public static void main(String[] args) {
-        ArrayList<Student> studentList = new ArrayList<Student>();
+        ArrayList<Student> studentList = new ArrayList<>();
         studentList.add(new Student("Alex", "January 2020"));
         studentList.add(new Student("Maria", "January 2020"));
         studentList.add(new Student("Lisa", "January 2020"));
