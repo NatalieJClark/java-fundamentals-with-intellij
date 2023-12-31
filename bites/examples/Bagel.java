@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning to use instance methods. which are called on instances of a class
 public class Bagel {
     public static void main(String[] args) {
     Bagel myBagel = new Bagel();

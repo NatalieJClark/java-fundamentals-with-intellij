@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning to write a simple Java program in a class
 public class JavaQuiz {
     public static void main(String[] args) {
         System.out.println("1. Does all Java code have to be inside a class?");

@@ -1,31 +1,15 @@
 package bites.examples;
 
+// Learning to use static methods (beyond main), which are called on a class, rather than on an instance of a class
 public class Announcement {
-    public static void main(String[] args){
-        Announcement myAnnouncement = new Announcement();
-        System.out.println(myAnnouncement.celebration());
-        System.out.println(myAnnouncement.changeOfPlan());
-        System.out.println(myAnnouncement.apology());
-        System.out.println(myAnnouncement.politeNotice());
-        System.out.println(myAnnouncement.helpNeeded());
+    // a static method that prints a String, but returns nothing
+    public static void alert(String message) {
+        System.out.println(message);
     }
 
-    public String celebration(){
-        return "Happy birthday!";
-    }
-
-    public String changeOfPlan(){
-        return "There's been a change of plan!";
-    }
-    public String apology(){
-        return "Sorry!";
-    }
-
-    public String politeNotice(){
-        return "Please keep off the grass!";
-    }
-
-    public String helpNeeded(){
-        return "Help!";
+    // a normal main method signature
+    public static void main(String[] args) {
+        // call our static method
+        Announcement.alert("All trains to London are running early - good luck!");
     }
 }

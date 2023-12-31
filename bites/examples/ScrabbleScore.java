@@ -3,6 +3,7 @@ package bites.examples;
 import java.util.Arrays;
 import java.util.HashMap;
 
+// Learning to use HashMaps in Java
 public class ScrabbleScore {
     static HashMap<String, Integer> letterValues = new HashMap<String, Integer>();
 

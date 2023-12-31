@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning string concatenation in Java
 public class StoryBuilder {
     // Class attributes:
     String plot;

@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning conditional statements and for loops in Java
 public class FizzBuzz {
     public static void main(String[] args) {
         for (int i = 100; i > 0; i--) {

@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning to use Interfaces in Java
 public class Penguin implements BirdBehaviours {
 
     @Override

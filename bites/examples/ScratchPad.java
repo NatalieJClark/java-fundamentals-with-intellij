@@ -2,6 +2,7 @@ package bites.examples;
 import java.util.Arrays;
 import java.util.HashMap;
 
+// Learning to use HashMaps in Java
 public class ScratchPad {
     public static void main(String[] args) {
         HashMap<String, Integer[]> scores = new HashMap<String, Integer[]>();

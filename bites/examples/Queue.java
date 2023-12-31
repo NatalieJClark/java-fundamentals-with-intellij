@@ -1,7 +1,7 @@
 package bites.examples;
 import java.util.ArrayList;
 
-
+// Learning to use ArrayLists in Java
 public class Queue {
 
     ArrayList<String> people;

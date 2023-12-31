@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning about the main method and printing output in Java
 public class JavaPrint {
     public static void main(String[] args) {
         System.out.println(args);

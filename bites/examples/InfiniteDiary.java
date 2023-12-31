@@ -2,6 +2,7 @@ package bites.examples;
 
 import java.util.ArrayList;
 
+// Learning to use Interfaces in Java
 public class InfiniteDiary implements GenericDiary {
 
     ArrayList<String> entries = new ArrayList<String>();

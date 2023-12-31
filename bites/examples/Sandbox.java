@@ -1,6 +1,7 @@
 package bites.examples;
 import java.util.ArrayList;
 
+// Learning to use Arrays and ArrayLists in Java
 public class Sandbox {
     public static void main(String[] args) {
         //  -------- Playing with ArrayLists---------

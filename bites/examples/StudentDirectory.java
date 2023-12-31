@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Enumeration;
 
+// Learning to use ArrayLists, string interpolation, instance fields and instance methods
 public class StudentDirectory {
 
     // This is a "nested" static class made for convenience here -

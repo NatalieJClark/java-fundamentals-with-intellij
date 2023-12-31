@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning to do maths with Java and string interpolation
 public class Order {
     // Class attributes:
     Integer total;

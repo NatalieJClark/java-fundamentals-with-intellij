@@ -2,6 +2,7 @@ package bites.examples;
 
 import javax.swing.text.StyledEditorKit;
 
+// Learning to use Arrays in Java
 public class ReadingList {
 
     // Class attributes:

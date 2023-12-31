@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning to do maths with Java
 public class Discounter {
     // Class attributes:
     Double discount;

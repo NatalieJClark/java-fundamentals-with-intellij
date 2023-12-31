@@ -2,6 +2,7 @@ package bites.examples;
 
 import java.util.HashMap;
 
+// Learning to use HashMaps in Java
 public class RockPaperScissors {
 
     static HashMap<String, HashMap<String, String>> rules = new HashMap<String, HashMap<String, String>>();

@@ -1,6 +1,7 @@
 package bites.examples;
 import java.util.ArrayList;
 
+// Learning conditional statements, for loops and while loops in Java
 public class LeapYear {
     public static void main(String[] args) {
         System.out.println(LeapYear.isLeapYear(2000));

@@ -1,5 +1,6 @@
 package bites.examples;
 
+// Learning to use instance fields
 public class ProgrammingLanguage {
     // Class attributes:
     String name;

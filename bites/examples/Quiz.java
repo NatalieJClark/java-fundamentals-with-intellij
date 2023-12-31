@@ -1,11 +1,12 @@
 package bites.examples;
 
+// Learning to use instance fields
 public class Quiz {
     // Class attributes
     String questionOne;
     String questionTwo;
 
-    // Constructor
+    // Constructor method grabs values that are passed in, and assigns them to instance fields
     public Quiz(String questionOne, String questionTwo){
         this.questionOne = questionOne;
         this.questionTwo = questionTwo;
