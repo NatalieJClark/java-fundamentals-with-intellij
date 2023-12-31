@@ -4,7 +4,7 @@
 
 - This is my Java Fundamentals project for Makers SWE Specialism Module 1 - Learning Java & Its Tools
 - This project is cloned from the Makers course repo, so it contains a lot of teaching materials.
-- It contains lots of practise code for learning Java
+- It contains lots of practise code for learning Java within `.bites/examples`
 
 ## Aims
 
